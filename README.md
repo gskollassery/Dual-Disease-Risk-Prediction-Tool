@@ -1,8 +1,8 @@
 # Dual-Disease-Risk-Prediction-Tool
 ## 📋 Project Overview
 Machine learning system that predicts diabetes and heart disease risk with:
-- 91.2% prediction accuracy 
-- 94% sensitivity (recall)
+- 74% prediction accuracy 
+- 82% sensitivity (recall)
 - 30% improved interpretability for clinicians
 
 ## 🚀 Quick Start
